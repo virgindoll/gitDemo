@@ -9,6 +9,7 @@ public class Demo {
         //vim 不可以打开，否则很难写code
         System.out.println("哈哈");
         System.out.println("你很稀烂，但是我还是支持你");
+        System.out.println("hello");
 
     }
 }
